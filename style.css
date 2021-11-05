@@ -10,7 +10,7 @@
     align-content: center;
     align-items: center;
 }
-/* 
-#imagenGio{
-    width: 50px;
-} */
+
+.banner-height{
+    height: 400px;
+}
